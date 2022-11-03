@@ -1,0 +1,10 @@
+v 4
+file . "fa.vhdl" "c17c2e0aeba12fc76b9662f4d4e53db4f46fe677" "20221102123815.755":
+  entity fa at 1( 0) + 0 on 119;
+  architecture rtl of fa at 14( 198) + 0 on 120;
+file . "rca.vhdl" "013b2a8862e48b6371cf7861fcd46573b5f5ea1d" "20221102123815.818":
+  entity rca at 1( 0) + 0 on 121;
+  architecture rtl of rca at 14( 255) + 0 on 122;
+file . "rca_tb.vhdl" "9bdee61e960ec86e61dc726369755ecbd11db13d" "20221102123815.883":
+  entity rca_tb at 1( 0) + 0 on 123;
+  architecture test of rca_tb at 7( 74) + 0 on 124;
